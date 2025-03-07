@@ -1,7 +1,15 @@
 # 📊 Power BI Projects Repository
-
-## 📌 Overview
 This repository contains multiple Power BI projects covering various domains such as banking, finance, customer analytics, and more. Each project includes a `.pbix` file, dataset, and a README explaining the insights gained from the analysis.
+
+## Repository Structure
+📂 PBIX File/ –
+The main Power BI file (credit_card_project.pbix).
+
+📂 Screenshots/ –
+Key visuals and insights from the reports.
+
+📂 Data sets/ –
+which data sets used for the project
 
 ## 🗂️ List of Power BI Projects
 
