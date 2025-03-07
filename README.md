@@ -11,11 +11,7 @@ This repository contains multiple Power BI projects covering various domains suc
      - Older customers have a higher churn rate.
      - High-balance customers are more likely to leave.
      - German customers show significantly higher churn.
-   - **Files**:
-     - `bank_churn.pbix` (Power BI report)
-     - `customer_data.csv` (Dataset)
-     - `churn_analysis.png` (Dashboard Screenshot)
-   - **[View Project](./BankCustomerChurnAnalysis/README.md)**
+     
 
 
 
